@@ -1,0 +1,24 @@
+1 - Uma classe em programação é um tipo abstrato de dados que define os objetos, uma estrutura de dados e
+um conjunto de operações (métodos).
+
+2 - Os objetos na programação podem representar qualquer coisa dentro do contexto do programa, sendo eles as
+instâncias das classes. Diferentes objetos podem ser agrupados dentro de uma classe de acordo com suas características semelhantes.
+
+3 - Os atributos são elementos que dentro de uma classe, funcionam como as características dos objetos pertencentes a ela. Por exemplo, 
+para a classe Pessoa, pode-se considerar os atributos de um objeto dela o nome e a idade.
+
+4 - Os métodos de uma classe podem ser definidos como as ações características dentro de uma classe que os objetos que pertencem a ela
+podem realizar. É possível considerar os métodos como os comportamentos da classe.
+
+5 - O método construtor é um método que realiza a construção inicial da classe.
+
+6 - O método construtor tem a função de inicializar os atributos da classe e fazer os processamentos inicias.
+
+7 - O método construtor, em termos de implementação, se diferencia dos outros métodos de classe pois ele deve ter
+obrigatoriamente o nome da classe, não possui retorno ou void. Além disso, os construtores não podem ser chamados
+diretamente.
+
+8 - O método construtor é disparado automaticamente ao se instanciar um objeto. 
+
+9 - a) Os atributos são: possuir 3 lados e cada lado possuir comprimento X qualquer.
+b) Os métodos são: cálculo da área, cálculo do perímetro e verificar se o triângulo pode ser isósceles, equilátero ou escaleno.
